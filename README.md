@@ -1,3 +1,6 @@
+The best software in the world !!!
+==================================
+
 Bitcoin Core integration/staging tree
 =====================================
 
